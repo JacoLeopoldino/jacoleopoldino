@@ -2,4 +2,4 @@
 
 - 💻 Estou cursando Análise e Desenvolvimento de Sistemas - Faesa
 - 👨‍💻 Estudando HTML, CSS e JAVASCRIPT
-- 
+- 🎯 Ser um desenvolvedor full stack
