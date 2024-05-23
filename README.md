@@ -8,7 +8,7 @@
 
 Aqui, cada commit é uma mordida deliciosa para a nossa cobrinha faminta! 🐍
 
-![Snake Game](./snake_game.svg)
+![Snake Game](snake_game.svg)
 
 ## Sobre o Projeto
 
