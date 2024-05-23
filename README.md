@@ -8,7 +8,7 @@
 
 Aqui, cada commit é uma mordida deliciosa para a nossa cobrinha faminta! 🐍
 
-![Snake Game](snake_game.svg)
+![Snake Game](https://gist.github.com/JacoLeopoldino/4157e945f8040040c59156b8b9f17183.js)
 
 ## Sobre o Projeto
 
